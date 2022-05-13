@@ -76,7 +76,7 @@ createPlot(myTree)
 
 - 首先准备xls或者csv数据，注意标签不要有中文，并且数据格式统一好，确保可以被pandas正确读取。
 
-![]([csv格式.PNG (1104×837) (raw.githubusercontent.com)](https://raw.githubusercontent.com/mengxiangqiqin/decision_tree/master/charm/csv格式.PNG))
+![](https://raw.githubusercontent.com/mengxiangqiqin/decision_tree/master/charm/csv%E6%A0%BC%E5%BC%8F.PNG)
 
 ```
 #修改路径
