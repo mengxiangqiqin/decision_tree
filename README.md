@@ -53,7 +53,7 @@ decision_tree
 
 #### 数据处理流程图
 
-![](charm\捕获.PNG)
+![](https://raw.githubusercontent.com/mengxiangqiqin/IMAGES/main/imges%E6%8D%95%E8%8E%B7.PNG)
 
 ### 运行demo
 
@@ -76,7 +76,7 @@ createPlot(myTree)
 
 - 首先准备xls或者csv数据，注意标签不要有中文，并且数据格式统一好，确保可以被pandas正确读取。
 
-![](https://raw.githubusercontent.com/mengxiangqiqin/decision_tree/master/charm/csv%E6%A0%BC%E5%BC%8F.PNG)
+![](https://raw.githubusercontent.com/mengxiangqiqin/IMAGES/main/imgescsv%E6%A0%BC%E5%BC%8F.PNG)
 
 ```
 #修改路径
@@ -120,7 +120,7 @@ python make_tree/run.py
 
 因素有风向、风速、气温、气压、湿度，预测下雨
 
-![](charm\decision_tree.png)
+![](https://raw.githubusercontent.com/mengxiangqiqin/IMAGES/main/imgesdecision_tree.png)
 
 ​	预测结果为不下雨
 
